@@ -1,3 +1,3 @@
-module github.com/alelthomas/go-todolist
+module github.com/alelthomas/go-todolist/cmd/todolist
 
 go 1.20
