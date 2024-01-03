@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"https://github.com/alelthomas/go-todolist/cmd/todolist/todolist"
+	"github.com/alelthomas/go-todolist/cmd/todolist/todolist"
 	"os"
 	"strings"
 )
