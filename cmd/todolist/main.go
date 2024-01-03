@@ -3,9 +3,9 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"https://github.com/alelthomas/go-todolist/cmd/todolist/todolist"
 	"os"
 	"strings"
-	"to-do/todolist"
 )
 
 func main() {
